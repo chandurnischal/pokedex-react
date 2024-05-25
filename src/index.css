@@ -1,0 +1,25 @@
+body {
+  margin: 1rem;
+  padding: 4rem;
+  font-family: sans-serif;
+  /* mine */
+  background: linear-gradient(to right, #0A285F, #D5A100);
+  
+  /* party color */
+  /* background: linear-gradient(to bottom, #ff0000, #cc0000, #3b4cca, #ffde00, #b3a125); */
+  
+  /* safari */
+  /* background: linear-gradient(to bottom, #a15e1a, #0e4217, #c9c66f, #809a45, #aaaaaa); */
+
+  /* chandelure */
+  /* background: linear-gradient(to bottom, #757cbb, #070808, #d2def1, #fbd13d, #a8c3dd); */
+
+  /* grass */
+  /* background: linear-gradient(to right, #ffffff, #70c8a0, #40b088, #88d8b8, #ffffff); */
+
+  /* skin color */
+  /* background: linear-gradient(to bottom, #ffe5cf, #efcdaa, #be8f65, #8e6544, #ffffff); */
+
+  /* trainer crystal */
+  /* background: linear-gradient(to bottom, #dcc4ba, #8b97bb, #dfd7d7, #bc5c5c, #e6e88b); */
+}
